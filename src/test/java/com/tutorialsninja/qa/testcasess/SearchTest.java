@@ -11,7 +11,7 @@ import com.tutorialsninja.qa.pom.HomePage;
 import com.tutorialsninja.qa.pom.SearchResultsPage;
 
 
-//added comment
+//added comment - added more details
 
 public class SearchTest extends BaseClass {
 	
