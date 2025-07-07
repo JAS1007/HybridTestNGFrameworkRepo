@@ -10,6 +10,9 @@ import com.tutorialsninja.qa.base.BaseClass;
 import com.tutorialsninja.qa.pom.HomePage;
 import com.tutorialsninja.qa.pom.SearchResultsPage;
 
+
+//added comment - added more details
+
 public class SearchTest extends BaseClass {
 	
 	public WebDriver driver; //if i don't make it public, it wont be passed inside the methods in MyListeners.java
